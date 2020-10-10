@@ -2,11 +2,11 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "zBC3izdHQO3carFrsBpyxluYK7u1Rqqk";
+char auth[] = "zBC3ixxxxxxxxxxxxxxxxx";      //Auth Code of Blynk
 
-char ssid[] = "CREATIVE EXPERTZ";
+char ssid[] = "xxxxxx";                     //Wifi Name
 
-char pass[] = "creative";
+char pass[] = "xxxxxxxx";                   //Wifi Password
 
 void setup()
 
